@@ -1,5 +1,4 @@
 # EDA-Project
-Projects related to Exploratory Data Analysis done on Datasets
 
 ### EDA on 1000 movies dataset from IMDB
 
